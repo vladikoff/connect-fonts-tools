@@ -37,6 +37,6 @@
     "subset_font": "./scripts/subset"
   },
   "scripts": {
-
+    "postinstall": "scripts/setup"
   }
 }
